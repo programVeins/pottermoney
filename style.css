@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: futura;
+}
+
+.cc{
+	height: 200px;
+	width: 400px;
+	top: calc(50% - 200px);
+	left: calc(50% - 200px);
+	position: absolute;
+}
+
+form{
+	top: 50px;
+	left: calc(50% - 170px);
+	position: relative;
+}
+
+p{
+	position: relative;
+	align-content: center;
+}
